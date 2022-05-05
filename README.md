@@ -1,8 +1,16 @@
-# Nuxt 3 Minimal Starter
+# Nuxt3 Layouts Tutorial
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+Look at the [Medium Article](https://medium.com/@cybercoder.naj/nuxt3-layouts-276ed64a4a1c) to view the tutorial for this project.
 
 ## Setup
+
+Clone or download the code onto your local machine:
+
+```bash
+git clone https://github.com/cybercoder-naj/nuxt3-layouts
+```
+
+## Installation
 
 Make sure to install the dependencies:
 
@@ -19,24 +27,8 @@ pnpm install --shamefully-hoist
 
 ## Development Server
 
-Start the development server on http://localhost:3000
+Start the development server on <http://localhost:3000>
 
 ```bash
 npm run dev
 ```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
